@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/Fersill53/techyblog/issues"
   },
-  "homepage": "https://github.com/Fersill53/techyblog#readme"
+  "homepage": "https://github.com/Fersill53/techyblog#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-session-sequelize": "^7.1.7",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "handlebars": "^4.7.8",
+    "mysql2": "^3.6.0",
+    "sequelize": "^6.32.1"
+  }
 }
